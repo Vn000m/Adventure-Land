@@ -12,38 +12,6 @@
 
 ---
 
-**conditions d'utilisation**
-- Pour utiliser le code, vous devez faire un fork du projet.
-- Pour utiliser le code, votre code doit tout le temps être public.
-
----
-
-**Cloner et installer les dépendances**
-
-```console
-> git clone https://github.com/luuxis/Selvania-Launcher.git
-> cd Selvania-Launcher
-> npm install
-```
----
-
-**Lancer l'application**
-
-```console
-> npm start
-```
----
-
-**Création du build**
-
-| Platform    | Command              |
-| ----------- | -------------------- |
-| Windows  | `npm run build:win`   |
-| macOS    | `npm run build:mac`   |
-| Linux    | `npm run build:linux` |
-
----
-
 **<p align="center">Fonctionnalité du launcher.</p>**
 
 - Mise à jour automatique.
@@ -63,16 +31,7 @@
 - Accepte toutes versions de Minecraft 1.0 > 1.19.x (Forge, Fabric etc).
 
 ---
-**<p align="center">Configurer votre launcher.</p>**
 
-- [Doc ici](./wiki.md).
 
----
-
-[<p align="center"><img src="https://discordapp.com/api/guilds/819729377650278420/embed.png?style=banner4" alt="discord">](https://discord.gg/e9q7Yr2cuQ) 
----
-
-[releases]: https://github.com/luuxis/Selvania-Launcher/releases 'releases'
-[build]: https://github.com/luuxis/Selvania-Launcher/releases 'build'
 
 
